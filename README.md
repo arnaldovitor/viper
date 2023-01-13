@@ -16,7 +16,7 @@ All the source code is in the `/legacy` folder and it works fine (as far as I've
 
 - [ ] Refactoring to be easier to use, similar to other frameworks like [Detectron2](https://github.com/facebookresearch/detectron2)
 - [ ] Integration with linting and testing tools
-- [ ] Integration with MLFlow
+- [ ] Integration with [MLFlow](https://mlflow.org/)
 - [ ] Integration with new models
 - [ ] Improve annotation tool
 - [ ] Add feature extraction module
