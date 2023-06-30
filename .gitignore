@@ -1,0 +1,14 @@
+.venv
+.env
+*~
+*.py[cod]
+*.orig
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# cache
+__pycache__
+.mypy_cache
+.pytest_cache
